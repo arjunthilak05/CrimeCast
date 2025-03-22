@@ -1,8 +1,5 @@
 # Crime-Cast: Predictive Crime Category Forecasting
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/crime-cast?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/crime-cast?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/crime-cast?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/crime-cast)
 ![Award](https://img.shields.io/badge/Award-Best%20Capstone%20Project%20IIT%20Madras-gold)
 
@@ -100,7 +97,7 @@ The project uses the Crime-Cast dataset with the following features:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/crime-cast.git
+git clone https://github.com/arjunthilak05/CrimeCast.git
 
 # Navigate to the project directory
 cd crime-cast
@@ -118,12 +115,12 @@ If you use this project in your research or application, please cite:
 
 ```
 @misc{crime-cast-2023,
-  author = {Your Name},
+  author = {R Arjun Thilak},
   title = {Crime-Cast: Predictive Crime Category Forecasting},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/crime-cast}}
+  howpublished = {\url{https://github.com/R Arjun Thilak/crime-cast}}
 }
 ```
 
@@ -137,9 +134,3 @@ If you use this project in your research or application, please cite:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-For questions or collaboration opportunities, please reach out at:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
