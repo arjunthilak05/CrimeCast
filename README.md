@@ -3,6 +3,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/crime-cast)
 ![Award](https://img.shields.io/badge/Award-Best%20Capstone%20Project%20IIT%20Madras-gold)
 
+![TSNE](https://github.com/arjunthilak05/CrimeCast/blob/main/download.png)
+
+
 ## 🏆 Best Capstone Project Award - Machine Learning Practice Course, IIT Madras
 
 This project was awarded the **Best Capstone Project** in the Machine Learning Practice Course at IIT Madras for its innovative approach to crime category prediction and practical applications in public safety.
